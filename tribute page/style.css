@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(17, 255, 243);
+    text-align: center;
+    font-size: 85px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header{
+ text-align: center;
+}
+h4{
+    color: rgb(255, 189, 189);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+video{
+    width:900px;
+    height: 450px;
+}
+.ima{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+h3{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(197, 197, 253);
+}
+p{
+    text-align: left;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5{
+    color: rgb(143, 143, 143);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h6{
+    color: rgb(177, 177, 175);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.sub{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aquamarine;
+}
+.sun{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    text-align: center;
+}
